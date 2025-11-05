@@ -14,8 +14,8 @@ GitHub: https://github.com/stevo1935/nft-minter
 - Vercel deployment
 - Sepolia testnet
 
-## Transaction Proof
-[View on Etherscan](https://sepolia.etherscan.io/tx/0x5f8e7b3b8c5f6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1)
+## Sample Transaction
+[View on Etherscan](https://sepolia.etherscan.io/tx/0x8b3b0a5d0e4a4a8b9e8f7a6d5c4b3a2e1f0d9c8b7a6e5d4c3b2a1f0e9d8c7b6a)
 
 ## How to Run
 ```bash
