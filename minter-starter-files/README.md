@@ -1,4 +1,4 @@
-# NFT Minter dApp (Web3 Portfolio Project)
+# NFT Minter dApp (Web3 Project)
 
 Live:https://nft-minter-snowy.vercel.app
 GitHub: https://github.com/stevo1935/nft-minter  
